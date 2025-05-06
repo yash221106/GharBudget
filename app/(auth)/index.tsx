@@ -36,7 +36,7 @@ const index = () => {
           Finane Made Easy For Homemakers
         </Text>
         <Text className="w-5/6 text-center font-semibold">
-          Get Started With Us For Managing Your Finance With Ease
+          Getfwdfwfwfwyfjwhdwith Ease
         </Text>
         <TouchableOpacity
           className="bg-primary rounded-full p-2 mt-20 w-3/6"
